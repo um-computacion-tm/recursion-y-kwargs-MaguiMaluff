@@ -1,5 +1,5 @@
 ###La funcion no imprime nada, con los 
-###tests en test_buscar_nombre.py se verifica que funciona
+###tests en test_buscar_datos.py se verifica que funciona
 
 def buscar_datos(*args, **kwargs):
     sum = 0
